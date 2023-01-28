@@ -2,7 +2,7 @@
   <div class="app-container">
     <NavBar />
     <router-view />
-    <FooterBar>&copy; 2023, Andrea Expósito Santana Powered by Vue. Designed by BambooholicPanda</FooterBar>
+    <FooterBar>&copy; 2023 Andrea Expósito Santana. Powered by Vue. Designed by BambooholicPanda.</FooterBar>
   </div>
 </template>
 
