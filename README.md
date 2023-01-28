@@ -43,7 +43,7 @@ This will create a production-ready build in the `dist` directory. You can then 
 
 The project is structured as follows:
 
-```bash
+```yaml
 ├── public                          # Contains the static assets for the application.
 ├── src                             # Contains the source code for the application.
 │   ├── assets                      # Contains the assets such as images, fonts, etc. 
