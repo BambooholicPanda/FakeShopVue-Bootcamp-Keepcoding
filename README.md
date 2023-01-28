@@ -11,6 +11,7 @@ It includes the following features:
 - Axios for HTTP requests
 - ESLint and Prettier for linting and code formatting
 - https://api.escuelajs.co/api for product database and user authentication
+- Designed for colour blindness accesibility 
 
 ## Getting Started
 
@@ -63,7 +64,7 @@ The project is structured as follows:
 
 ## How to Log In and Website Usage
 
-In order to use the website, you must log in. You can log in with one of the following users:
+In order to use the website, you must log in. You may log in with one of the following users:
 
 ```json
 "email": "john@mail.com", "password": "changeme"
@@ -74,10 +75,10 @@ In order to use the website, you must log in. You can log in with one of the fol
 Once logged in, you will have access to the following views:
 
 - Profile: where you can see your user information.
-- Product Listing: where you can see the products available and search them by name.
-- Product Detail: where you can see all the photos available for the product.
+- Product Listing: where you can see the available products and search them by name.
+- Product Detail: where you can see all the the product available photos.
 
-Please note, that the search bar only allows you to use it when you write at least three characters.
+Please note that the search bar only allows you to use it when you type at least three characters.
 
 ## Images
 
@@ -85,7 +86,7 @@ Please note, that the search bar only allows you to use it when you write at lea
 <summary>Click to open the dropdown</summary>
 <br>
 
-![main page](https://imgur.com/Fq0ZXSb.png)
-![detail page](https://imgur.com/mAwYj1I.png)
+![main page](https://imgur.com/QC90MSv.png)
+![detail page](https://imgur.com/NTcEYu3.png)
 
 </details>
