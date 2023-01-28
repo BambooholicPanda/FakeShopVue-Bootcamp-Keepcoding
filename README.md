@@ -88,5 +88,6 @@ Please note that the search bar only allows you to use it when you type at least
 
 ![main page](https://imgur.com/QC90MSv.png)
 ![detail page](https://imgur.com/NTcEYu3.png)
+![search bar use](https://i.imgur.com/xNyUTtJ.png)
 
 </details>
